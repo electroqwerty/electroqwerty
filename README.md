@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F794&random=false&width=455&lines=Hi+there%2C+I'm+Martin+Macak+:);AI+Researcher+%26+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F794&random=false&width=500&lines=Hi+there%2C+I'm+Martin+Macak+:);AI+Researcher+%26+Developer&center=true" alt="Typing SVG">
   </a>
 </div>
 
@@ -24,7 +24,7 @@ I'm passionate about bridging the gap between AI research and practical applicat
   - Currently 1st year master's student
   - Previously enrolled in Economics with Data Science program
 
-- **Bachelor's Degree in Business/Marketing (BA)** | [School of Economics and Business, University of Ljubljana](http://www.ef.uni-lj.si/about_the_SEB_LU)
+- **Bachelor's Degree in Business/Marketing (BA)** | [School of Economics and Business, University of Ljubljana](https://www.ef.uni-lj.si/)
   - Specialized in marketing
   - Strong foundation in business analysis and economic theory
   - Co-founded University Business Ljubljana Club (grew to 50+ members)
@@ -79,7 +79,6 @@ I'm passionate about bridging the gap between AI research and practical applicat
 ### 📫 How to Reach Me
 
 - **Email:** [martinmacak@protonmail.com](mailto:martinmacak@protonmail.com)
-- **Phone:** [+386 69 691 827](tel:+38669691827)
 - **LinkedIn:** [Martin Macak](https://www.linkedin.com/in/martin-macak/)
 - **GitHub:** [@electroqwerty](https://github.com/electroqwerty)
 
